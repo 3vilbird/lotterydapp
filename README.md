@@ -1,10 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-node version  v12.16.0
-make sure that metamask is installed
+node version  v12.16.0<br>
+make sure that metamask is installed<br>
 
-at the end i didn't specified whio is the winner thats your task to the way out.........
+at the end i didn't specified whio is the winner thats your task to find out.........<br>
+
+and you can get the contracts here(https://github.com/blackthedevil/lottery-contarcts-backend-only/tree/master)
 
 ## Available Scripts
 
