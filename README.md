@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 node version  v12.16.0
 make sure that metamask is installed
 
+at the end i didn't specified whio is the winner thats your task to the way out.........
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -44,6 +46,14 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 images 
 
+first page
+![first](https://github.com/blackthedevil/lotterydapp/blob/master/images/Screenshot%20from%202020-02-22%2021-39-41.png)
+
+entering into lottery
+![enter](https://github.com/blackthedevil/lotterydapp/blob/master/images/Screenshot%20from%202020-02-22%2021-40-10.png)
+
+picking the winner
+![winner](https://github.com/blackthedevil/lotterydapp/blob/master/images/Screenshot%20from%202020-02-22%2021-41-03.png)
 
 
 
