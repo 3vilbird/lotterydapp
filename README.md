@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+node version  v12.16.0
+make sure that metamask is installed
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -36,6 +40,31 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+
+images 
+
+<h4>first page</h4>
+![first](https://github.com/blackthedevil/lotterydapp/blob/master/images/Screenshot%20from%202020-02-22%2021-39-41.png)
+
+<h4>entering into the lottery</h4>
+![enter](https://github.com/blackthedevil/lotterydapp/blob/master/images/Screenshot%20from%202020-02-22%2021-40-10.png)
+
+
+<h4>picking the winner</h4>
+![enter](https://github.com/blackthedevil/lotterydapp/blob/master/images/Screenshot%20from%202020-02-22%2021-41-03.png)
+
+<h4>winer picked up conformation</h4>
+
+![enter](https://github.com/blackthedevil/lotterydapp/blob/master/images/Screenshot%20from%202020-02-22%2021-41-24.png)
+
+
+
+
+
+
+
+
 
 ## Learn More
 
