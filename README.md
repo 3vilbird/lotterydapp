@@ -44,23 +44,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 images 
 
-<h4>first page</h4>
-![first](https://github.com/blackthedevil/lotterydapp/blob/master/images/Screenshot%20from%202020-02-22%2021-39-41.png)
-
-<h4>entering into the lottery</h4>
-![enter](https://github.com/blackthedevil/lotterydapp/blob/master/images/Screenshot%20from%202020-02-22%2021-40-10.png)
-
-
-<h4>picking the winner</h4>
-![enter](https://github.com/blackthedevil/lotterydapp/blob/master/images/Screenshot%20from%202020-02-22%2021-41-03.png)
-
-<h4>winer picked up conformation</h4>
-
-![enter](https://github.com/blackthedevil/lotterydapp/blob/master/images/Screenshot%20from%202020-02-22%2021-41-24.png)
-
-
-
-
 
 
 
